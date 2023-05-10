@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrXs2K21plWB/W7HuwJG6r6Lm/M743+WqIRMhTE92XPH78DLQd83tm2zxu0XVp7bBQxWHHX4aYV9+aJMjXai9A==",
+  "dgSpecHash": "jAjhVmyAYks/JkMBhl0RZEopeVtn2WqMzw0Gzc8uF9fqrgnWk8x5vfhB+00iZofBNwuO3LI5RT1KDOaW4YD8GQ==",
   "success": true,
-  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj",
+  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CD\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\CD\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

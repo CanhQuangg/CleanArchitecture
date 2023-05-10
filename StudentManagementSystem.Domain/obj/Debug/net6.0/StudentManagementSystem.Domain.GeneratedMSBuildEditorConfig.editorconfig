@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentManagementSystem.Domain
-build_property.ProjectDir = E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\StudentManagementSystem\StudentManagementSystem.Domain\
+build_property.ProjectDir = E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\Branch001\CleanArchitecture\StudentManagementSystem.Domain\

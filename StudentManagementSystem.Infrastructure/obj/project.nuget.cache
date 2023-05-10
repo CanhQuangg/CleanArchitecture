@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wPuiMMqJ0Ju+nmfdJOAgZJVA0gyV0ubj4OeNzyE+Y3n8MPxilnXQku7NIcLDDg5PDrQEsiOweH+YmgDNbIJWQ==",
+  "dgSpecHash": "amSCnWSKQ1vDh0doPCHf/cMBdTeUYjGZfRUq2ZnX/Rm9CeC2X4lo1gFsZWYMGW/SndNOL/7MgfsMP7uFDvzSHw==",
   "success": true,
-  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj",
+  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
