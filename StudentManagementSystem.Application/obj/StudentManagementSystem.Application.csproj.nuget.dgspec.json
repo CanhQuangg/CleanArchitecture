@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj": {}
+    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj": {}
   },
   "projects": {
-    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj": {
+    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
         "projectName": "StudentManagementSystem.Application",
-        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
         "packagesPath": "C:\\Users\\CD\\.nuget\\packages\\",
-        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Application\\obj\\",
+        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CD\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj": {
-                "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj"
+              "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj": {
+                "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj"
               },
-              "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj": {
-                "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj"
+              "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj": {
+                "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj": {
+    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
         "projectName": "StudentManagementSystem.Domain",
-        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\CD\\.nuget\\packages\\",
-        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\obj\\",
+        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CD\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,14 +155,14 @@
         }
       }
     },
-    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj": {
+    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
+        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
         "projectName": "StudentManagementSystem.Shared",
-        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
+        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
         "packagesPath": "C:\\Users\\CD\\.nuget\\packages\\",
-        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\obj\\",
+        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CD\\AppData\\Roaming\\NuGet\\NuGet.Config",

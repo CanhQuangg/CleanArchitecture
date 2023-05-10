@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
+      "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
       "projectName": "StudentManagementSystem.Shared",
-      "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
+      "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj",
       "packagesPath": "C:\\Users\\CD\\.nuget\\packages\\",
-      "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Shared\\obj\\",
+      "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CD\\AppData\\Roaming\\NuGet\\NuGet.Config",

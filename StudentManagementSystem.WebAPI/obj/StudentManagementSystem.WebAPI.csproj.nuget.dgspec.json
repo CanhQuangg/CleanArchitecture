@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj": {}
+    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj": {}
   },
   "projects": {
-    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj": {
+    "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj",
+        "projectUniqueName": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj",
         "projectName": "StudentManagementSystem.WebAPI",
-        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj",
+        "projectPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.WebAPI\\StudentManagementSystem.WebAPI.csproj",
         "packagesPath": "C:\\Users\\CD\\.nuget\\packages\\",
-        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.WebAPI\\obj\\",
+        "outputPath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CD\\AppData\\Roaming\\NuGet\\NuGet.Config",

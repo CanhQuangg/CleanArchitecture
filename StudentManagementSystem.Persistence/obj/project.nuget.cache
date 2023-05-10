@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVp4SGOy1YDbk7berylx7c27aityHgk60XMh3R7jEXFzoJEwjii+rMTrDVWZUdXOv0M49vcHT9l9ZO+OJW69zw==",
+  "dgSpecHash": "JfpReBVu2VpNFn5rrOK13NyM0/mvlRaJB3sBTZ+R333xJkQJqCbiBcme9QKKSO7kKjuclBEGtyoJc+bLCbvppg==",
   "success": true,
-  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Persistence\\StudentManagementSystem.Persistence.csproj",
+  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Persistence\\StudentManagementSystem.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CD\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\CD\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

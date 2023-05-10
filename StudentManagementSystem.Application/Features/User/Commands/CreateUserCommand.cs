@@ -13,14 +13,8 @@ namespace StudentManagementSystem.Application.Features.User.Commands
     public record CreateUserCommand : IRequest<Result<int>>, IMapFrom<User>
     {
         //thay doi o day
-        public int check()
-        {
-            return 1;
-        }
+//ấđâsđâs
+        //da duoc thay doi boi branch001
 
-        public bool checkk()
-        {
-            return true;
-        }
     }
 }

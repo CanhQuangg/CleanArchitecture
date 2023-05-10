@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qtgk/2zup9CUk7TLIEItmi9kB8Y8aCNDNECdpGQwA3Bj2seSBX6n+X06Hpf0qR/49U5cs6DeY0sAlKRuZrEupg==",
+  "dgSpecHash": "iLg1dmxTt/j0ZMzMWGJhD5sXT/WdJSN8yjaWuXBmuOEQtMbsO1hHrIz0/DG4IOKkl0b2Wi21IgNuSbMpchzjlw==",
   "success": true,
-  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\Branch001\\CleanArchitecture\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CD\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\CD\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
