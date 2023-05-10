@@ -15,7 +15,12 @@ namespace StudentManagementSystem.Application.Features.User.Commands
         //thay doi o day
         public int check()
         {
-            return 0;
+            return 1;
+        }
+
+        public bool checkk()
+        {
+            return true;
         }
     }
 }
