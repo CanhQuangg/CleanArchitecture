@@ -1,0 +1,5 @@
+E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net6.0\StudentManagementSystem.Application.csproj.AssemblyReference.cache
+E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net6.0\StudentManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net6.0\StudentManagementSystem.Application.AssemblyInfoInputs.cache
+E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net6.0\StudentManagementSystem.Application.AssemblyInfo.cs
+E:\NguyenCanhQuang\OneDrive - BIET IES\Workspace\StudentManagement\StudentManagementSystem\StudentManagementSystem.Application\obj\Debug\net6.0\StudentManagementSystem.Application.csproj.CoreCompileInputs.cache

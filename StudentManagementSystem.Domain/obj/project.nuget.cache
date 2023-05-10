@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "brV1Kfw+lffrNLn4+82fY/tQ+X/wQkT2ov6oTMsFEnxiCBojJ+7N/eRZY4LsiTRJmVhX0MHjjA/3644j+2AmCg==",
+  "success": true,
+  "projectFilePath": "E:\\NguyenCanhQuang\\OneDrive - BIET IES\\Workspace\\StudentManagement\\StudentManagementSystem\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CD\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\CD\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\CD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sitefinity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
